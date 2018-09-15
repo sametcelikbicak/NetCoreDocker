@@ -1,0 +1,11 @@
+/Users/sametcelikbicak/Desktop/NetCoreDocker/bin/Debug/netcoreapp2.1/NetCoreDocker.deps.json
+/Users/sametcelikbicak/Desktop/NetCoreDocker/bin/Debug/netcoreapp2.1/NetCoreDocker.runtimeconfig.json
+/Users/sametcelikbicak/Desktop/NetCoreDocker/bin/Debug/netcoreapp2.1/NetCoreDocker.runtimeconfig.dev.json
+/Users/sametcelikbicak/Desktop/NetCoreDocker/bin/Debug/netcoreapp2.1/NetCoreDocker.dll
+/Users/sametcelikbicak/Desktop/NetCoreDocker/bin/Debug/netcoreapp2.1/NetCoreDocker.pdb
+/Users/sametcelikbicak/Desktop/NetCoreDocker/obj/Debug/netcoreapp2.1/NetCoreDocker.csprojAssemblyReference.cache
+/Users/sametcelikbicak/Desktop/NetCoreDocker/obj/Debug/netcoreapp2.1/NetCoreDocker.csproj.CoreCompileInputs.cache
+/Users/sametcelikbicak/Desktop/NetCoreDocker/obj/Debug/netcoreapp2.1/NetCoreDocker.AssemblyInfoInputs.cache
+/Users/sametcelikbicak/Desktop/NetCoreDocker/obj/Debug/netcoreapp2.1/NetCoreDocker.AssemblyInfo.cs
+/Users/sametcelikbicak/Desktop/NetCoreDocker/obj/Debug/netcoreapp2.1/NetCoreDocker.dll
+/Users/sametcelikbicak/Desktop/NetCoreDocker/obj/Debug/netcoreapp2.1/NetCoreDocker.pdb
